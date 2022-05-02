@@ -3,6 +3,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void multiTest(){
-        assertEquals(1, SkillDemo.multi(1, 2));
+        assertEquals(2, SkillDemo.multi(1, 2));
     }
 }
